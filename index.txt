@@ -1,0 +1,4 @@
+This is index.txt file
+It shows the dem of crating local repo.
+Adding new line.
+
